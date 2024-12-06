@@ -1,0 +1,6 @@
+Archive/
+sr2_0/
+__pycache__/
+.idea/
+proto_ap/*.proto
+.pacap/

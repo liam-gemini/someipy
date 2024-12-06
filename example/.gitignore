@@ -1,0 +1,12 @@
+.vscode/
+dist/
+someipy.egg-info/
+__pycache__
+venv/
+
+*.whl
+
+test_apps/build
+test_apps/install
+
+build/
